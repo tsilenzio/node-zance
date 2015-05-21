@@ -1,0 +1,12 @@
+.jscsrc
+.jshintrc
+.editorconfig
+.gitattributes
+.travis.yml
+
+.idea/
+
+gulpfile.js
+
+test/
+dist/
